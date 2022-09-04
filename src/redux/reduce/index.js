@@ -3,7 +3,7 @@ import {
    
 
 } from "../actions";
-
+   
 const stadoInicial={
    prueba:''
 }
