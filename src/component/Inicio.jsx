@@ -34,7 +34,7 @@ export default function Inicio(){
     }
     if(dif.mes<0||dif.dia<0){
         dif.año=dif.año-1
-    }
+    } 
     return(
         <div>
           <div>
@@ -44,7 +44,7 @@ export default function Inicio(){
                     <h1>&#128406;HOLA!&#x1F596;</h1>
                     <h3>mi nombre es </h3>
                     <h3>Victor Cavallo</h3>
-                    <h3>#Soy programador </h3>
+      fg              <h3>#Soy programador </h3>
                     <h3>Full Stack DEV</h3>
                 </div>
                 <div>
